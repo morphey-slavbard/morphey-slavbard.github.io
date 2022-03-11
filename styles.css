@@ -1,4 +1,6 @@
 .frame{
     width: 1440px;
     color: aqua;
+    display: flex;
+    justify-content: center;
 }
